@@ -8,3 +8,4 @@ This script has been tested to run successfully on RHEL8/7/6, CentOS, SLES/SLED 
 
 script will required to run using root user.
 
+script execution /bin/bash server-healthcheck.sh
