@@ -1,4 +1,5 @@
 # Unix-server-HealthCheck-Bash-Script
+
 Trying to develop a script which can provide all necessary details from Unix Host.
 The script can provide Basic Health checks on unix system, which will be helful in many ways.
 
@@ -8,5 +9,9 @@ This script has been tested to run successfully on RHEL8/7/6, CentOS, SLES/SLED 
 
 script will required to run using root user.
 
-script execution /bin/bash server-healthcheck.sh
-script execution /bin/bash server-healthcheck_new.sh
+script execution 
+`````
+/bin/bash server-healthcheck.sh
+/bin/bash server-healthcheck_new.sh
+``````
+
